@@ -36,7 +36,7 @@
 
 ---
 
-> 📬 문의: chip.study@gmail.com
+> 📬 문의: qnfdlf1997@gmail.com
 
 ---
 
