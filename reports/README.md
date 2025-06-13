@@ -11,6 +11,21 @@
 
 ---
 
+
+![1주차_과제안내](https://github.com/user-attachments/assets/a08440af-278d-40f4-9395-c33147ea51ef)
+![슬라이드162](https://github.com/user-attachments/assets/eb24e862-623f-48ad-a1f0-dc549350ab63)
+![슬라이드69](https://github.com/user-attachments/assets/355f0461-2e12-42d6-911e-f16f5aedc83e)
+![슬라이드57](https://github.com/user-attachments/assets/016268b3-9fda-43a9-abab-c945f117745b)
+![슬라이드172](https://github.com/user-attachments/assets/4af6198d-4925-408a-ad69-9640d87ce4db)
+![슬라이드32](https://github.com/user-attachments/assets/b1c539e9-b0c8-4d2f-8d0f-030124519e5f)
+![슬라이드177](https://github.com/user-attachments/assets/8203685f-49a2-485b-b658-5ef3a39e8dab)
+
+
+
+
+---
+
+
 ## 📂 파일명 규칙
 
 > **홍길동_n주차_레포트.pdf**
