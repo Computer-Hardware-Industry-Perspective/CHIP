@@ -1,3 +1,56 @@
-# CHIP Repository
+<img width="4634" alt="logo2_w" src="https://github.com/user-attachments/assets/8ecf708d-335a-4949-8c04-968651ce8b85" />
 
-Welcome to the Computer Hardware & Industry Perspective (CHIP) repository!
+---
+
+<p align="center">
+  <b>“Disassemble. Understand. Assemble.”</b><br>
+  <sub>하드웨어 분해 실습 · 산업 트렌드 리서치</sub>
+</p>
+
+---
+
+## 🛠 CHIP에 대하여
+**CHIP**은 크래프톤 정글 8기 301호에서 시작된 하드웨어 탐구 동아리입니다.  
+우리는 소프트웨어를 넘어서, 컴퓨터 하드웨어의 본질과 산업의 흐름까지 함께 배우고자 합니다.
+
+컴퓨터가 세상을 어떻게 움직이는지,  
+눈에 보이지 않는 기술들이 어떤 원리로 동작하는지 이해하는 것을 목표로 합니다.
+
+> 코딩만 알던 코덕에서, 하드웨어까지 이해하는 컴덕이 되기 위해
+> 
+> ![IMG_6123](https://github.com/user-attachments/assets/068d36fc-1d3b-46e1-bfc8-143c4f50ca3d)
+> ![IMG_6579](https://github.com/user-attachments/assets/d74fba80-2f7e-4f5d-8d95-6cc02ef4e427)
+
+---
+
+## 🚀 활동 내용
+- 🔬 **핸즈온 분해 실습**  
+  SSD, RAM, GPU 등 다양한 하드웨어를 실제로 분해하고 내부 구조를 탐구합니다.  
+  부품 하나하나의 역할과 기술적 원리를 스스로 경험하며 학습합니다.
+- 📊 **산업 트렌드 리포트 작성**  
+  메모리, 반도체, 차세대 컴퓨팅 기술 등 다양한 주제를 다루는 ‘선각 리포트’를 매주 작성하고 공유합니다.  
+  기술을 넘어 산업의 흐름과 미래를 읽는 힘을 기릅니다.
+
+---
+
+## 🧑‍💻 가입 방법
+- 직접 301호 교실로 찾아와주세요. 언제든 환영합니다!
+- 또는, **이메일**로 문의해 주세요: qnfdlf1997@gmail.com
+
+> ✉️ 궁금한 점이 있다면 부담 없이 연락주세요!
+
+---
+## 👥 멤버
+| 이름 | 번호 |
+|:---|:---|
+| 김재현 | 05 |
+| 박창현 | 09 |
+| 백지원 | 10 |
+| 원산하 | 13 |
+| 이원규 | 18 |
+| 이현재 | 21 |
+| 정승민 | 23 |
+
+---
+
+
